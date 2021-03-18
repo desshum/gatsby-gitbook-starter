@@ -38,9 +38,9 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '1-about',
-      '2-authorization',
-      '3-profile',
-      '4-applications'
+      '2-repare_to_working',
+      '3-work_with_product',
+      '4-instructions'
 
     ],
     collapsedNav: [],
@@ -51,7 +51,7 @@ const config = {
       "<a href='https://zkh.kloud.one/'>KLOUD.ONE </a>",
   },
   siteMetadata: {
-    title: 'GitDocs Trusted.Plus',
+    title: 'GitDocs KLOUD.ONE',
     description: 'Documentation built with mdx.',
     ogImage: null,
     docsLocation: '',
