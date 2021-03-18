@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://raw.githubusercontent.com/DigtLab-QA/TestDocs/main/src/images/TrustedID_white.png',
+    logo: 'https://zkh.kloud.one/upload/landing/e59/%D0%BB%D0%BE%D0%B3%D0%BE_big@2x.png',
     logoLink: 'https://zkh.kloud.one/',
     title: '',
     githubUrl: '',
@@ -44,7 +44,7 @@ const config = {
 
     ],
     collapsedNav: [],
-    links: [{ text: 'Trusted.Plus', link: 'https://trusted.plus/id/' }],
+    links: [{ text: '/KLOUD.ONE', link: 'https://zkh.kloud.one/' }],
     frontline: false,
     ignoreIndex: true,
     title:
