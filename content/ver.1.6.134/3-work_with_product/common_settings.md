@@ -1,7 +1,7 @@
 ---
-slug: "/post9"
+slug: "/post5"
 title: "Вкладка Настройки в Личном кабинете"
-sort: "8"
+sort: "08"
 ---
 
 ![Картинка](./images/common_settings_main.png "Выпадающий список модулей АД и АППС")

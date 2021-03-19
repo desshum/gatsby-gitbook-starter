@@ -1,5 +1,6 @@
 ---
-slug: "/post1"
+slug: "/post2"
+title: "Подготовка к работе"
 sort: "1"
 ---
 
