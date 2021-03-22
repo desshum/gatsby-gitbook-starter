@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://raw.githubusercontent.com/DigtLab-QA/KloudOne/main/src/images/kloudone.png',
+    logo: 'https://raw.githubusercontent.com/DigtLab-QA/KloudOne/master/src/images/kloudone.png',
     logoLink: 'https://zkh.kloud.one/',
     title: '',
     githubUrl: '',
