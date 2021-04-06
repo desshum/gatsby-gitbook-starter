@@ -28,7 +28,7 @@ const config = {
 		  </li>`,
     links: [{ text: '', link: '' }],
     search: {
-      enabled: false,
+      enabled: true,
       indexName: '',
       algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
       algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
@@ -44,7 +44,7 @@ const config = {
 
     ],
     collapsedNav: [],
-    links: [{ text: '/KLOUD.ONE', link: 'https://zkh.kloud.one/' }],
+    links: [{ text: 'KLOUD.ONE', link: 'https://zkh.kloud.one/' }],
     frontline: false,
     ignoreIndex: true,
     title:
