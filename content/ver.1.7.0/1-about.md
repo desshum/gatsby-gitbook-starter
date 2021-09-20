@@ -1,6 +1,6 @@
 ---
 slug: "/post132"
 title: "Введение"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaTitle: "KLOUD.ONE"
 metaDescription: "This is the meta description for this page"
 ---
