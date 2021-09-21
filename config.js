@@ -43,7 +43,7 @@ const config = {
       '4-instructions'
 
     ],
-    collapsedNav: ["/ver.1.6.134","/ver.1.7.0"],
+    collapsedNav: [],
     links: [{ text: 'KLOUD.ONE', link: 'https://zkh.kloud.one/' }],
     frontline: false,
     ignoreIndex: true,
