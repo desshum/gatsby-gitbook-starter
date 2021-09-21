@@ -37,10 +37,10 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '1-about',
-      '2-repare_to_working',
-      '3-work_with_product',
-      '4-instructions'
+      '01',
+      '02',
+      '03',
+      '04'
 
     ],
     collapsedNav: [],
