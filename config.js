@@ -37,10 +37,10 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '01',
-      '02',
-      '03',
-      '04'
+      '01-',
+      '02-',
+      '03-',
+      '04-'
 
     ],
     collapsedNav: [],
