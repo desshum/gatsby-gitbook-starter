@@ -1,13 +1,13 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://zkh.kloud.one/',
+    siteUrl: 'https://kloud.one/',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
     logo: 'https://raw.githubusercontent.com/DigtLab-QA/KloudOne/master/src/images/kloudone.png',
-    logoLink: 'https://zkh.kloud.one/',
+    logoLink: 'https://kloud.one/',
     title: '',
     githubUrl: '',
     helpUrl: '',
@@ -44,7 +44,7 @@ const config = {
 
     ],
     collapsedNav: [],
-    links: [{ text: 'KLOUD.ONE', link: 'https://zkh.kloud.one/' }],
+    links: [{ text: 'KLOUD.ONE', link: 'https://kloud.one' }],
     frontline: false,
     ignoreIndex: true,
     title:
