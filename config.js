@@ -36,13 +36,7 @@ const config = {
     },
   },
   sidebar: {
-    forcedNavOrder: [
-      '01-',
-      '02-',
-      '03-',
-      '04-'
-
-    ],
+    forcedNavOrder: [],
     collapsedNav: [],
     links: [{ text: 'KLOUD.ONE', link: 'https://kloud.one' }],
     frontline: false,
