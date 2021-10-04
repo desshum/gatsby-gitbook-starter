@@ -1,5 +1,5 @@
 ---
-slug: "/post132"
+slug: "/post101"
 title: "Введение"
 metaTitle: "KLOUD.ONE"
 metaDescription: "This is the meta description for this page"
