@@ -15,6 +15,4 @@ metaDescription: "This is the meta description for this page"
 - ID (ID rel 0.1)
 4.  Реализована технология единого входа Trusted.Plus
 5. Расширен перечень провайдеров SIP-телефонии (добавлен mtt.ru)
-
-
-Исправлены ошибки:  
+ 
