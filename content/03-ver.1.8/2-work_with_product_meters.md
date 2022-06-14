@@ -1,6 +1,6 @@
 ---
 slug: "/post105"
-title: "Личный кабинет пользователя ППС"
+title: "Личный кабинет пользователя Прием показаний счетчиков"
 metaTitle: "KLOUD.ONE"
 metaDescription: "This is the meta description for this page"
 ---
