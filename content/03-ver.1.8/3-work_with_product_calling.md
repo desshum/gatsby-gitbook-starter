@@ -1,6 +1,6 @@
 ---
 slug: "/post117"
-title: "Личный кабинет пользователя Обзвон должников"
+title: "Личный кабинет пользователя ОД"
 metaTitle: "KLOUD.ONE"
 metaDescription: "This is the meta description for this page"
 ---
