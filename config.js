@@ -28,11 +28,11 @@ const config = {
 		  </li>`,
     links: [{ text: '', link: '' }],
     search: {
-      enabled: true,
-      indexName: 'Kloud',
-      algoliaAppId: "ALEC0WYN85",
-      algoliaSearchKey: "5b3e9e822ca6424f23ac7eabae6576e9",
-      algoliaAdminKey: "3a662f2a97971b3daa07d1509dc3cf44",
+      enabled: false,
+//       indexName: 'Kloud',
+//       algoliaAppId: "ALEC0WYN85",
+//       algoliaSearchKey: "5b3e9e822ca6424f23ac7eabae6576e9",
+//       algoliaAdminKey: "3a662f2a97971b3daa07d1509dc3cf44",
     },
   },
   sidebar: {
