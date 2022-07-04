@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://kloud.one/',
+    siteUrl: 'https://bright-croissant-fdf732.netlify.app/',
     gaTrackingId: null,
     trailingSlash: false,
   },
